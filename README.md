@@ -4,21 +4,15 @@
 - 어제보다 더 나은 코드 짜는 것을 목표로 합니다.
 - 공부한 내용을 정리하는 것을 좋아합니다. 일일 방문자 수 500명이 넘는 블로그를 운영하고 있으며, 최근에는 공부한 내용을 Git 에 정리하고 있습니다.
 
-### 🙋‍♂️ About Me
 ---
-
-### Contact & Channel
+### 🙋‍♂️ Contact & Channel
 
 - Email | sochun1518@naver.com
-
----
-
 - Github | [https://github.com/travelbeeee](https://github.com/travelbeeee)
 - Blog | [https://travelbeeee.tistory.com/](https://travelbeeee.tistory.com/)
 
-## ⌨️ Skills
-
 ---
+## ⌨️ Skills
 
 ## Backend
 
@@ -34,10 +28,9 @@
 
 - HTML5, CSS3, Javascript
 - Thymeleaf
-
+---
 ## 👨‍💻Projects & Experiences
 
----
 
 ## PDFLO 전자책 판매 서비스
 
