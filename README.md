@@ -34,7 +34,7 @@
 # 👨‍💻Projects & Experiences
 
 ## Naver Webtoon
-***2021.12 ~***
+***2021.12 ~ ***
 
 - 네이버웹툰 KR Tech Server 팀 합류
 
