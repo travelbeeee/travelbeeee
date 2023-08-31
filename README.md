@@ -18,7 +18,7 @@
 ## Backend
 
 - Java
-- Spring, Spring Boot, Spring MVC, Spring Data JPA
+- Spring, Spring Boot, Spring MVC, Spring Data JPA, Spring Webflux
 - JPA
 - Junit5
 - Gradle
@@ -29,6 +29,7 @@
 
 - HTML5, CSS3, Javascript
 - Thymeleaf
+- React
 <br><br>
 
 # 👨‍💻Projects & Experiences
@@ -36,8 +37,12 @@
 ## Naver Webtoon
 ***2021.12 ~ 현재***
 
-- 네이버웹툰 KR Tech Server 팀 합류
-
+- 네이버웹툰 KW Tech Server 팀 합류
+  - '네이버웹툰' 서비스 개발 담당
+    - [PCWeb](https://comic.naver.com/index)
+    - [MobileWeb](https://m.comic.naver.com/index)
+    - 네이버웹툰 App 서버 담당
+  - '네이버웹툰' 회원서비스 개발 담당
 
 ## PDFLO 전자책 판매 서비스
 
